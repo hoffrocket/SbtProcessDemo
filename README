@@ -1,0 +1,12 @@
+Take a look at the project file project/build/SbtDemoProject.scala
+
+run the sbt console: ./sbt
+
+actions:
+
+java-proc
+  example of piping one command to another
+hello
+  example of just logging the output of a plain old scala function
+run
+  will run the main method at src/main/scala/org/jonhoffman/MainApp.scala
