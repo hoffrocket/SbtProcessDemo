@@ -10,3 +10,5 @@ hello
   example of just logging the output of a plain old scala function
 run
   will run the main method at src/main/scala/org/jonhoffman/MainApp.scala
+reload
+  if you make change to the SbtDemoProject.scala file, use that action to reload
