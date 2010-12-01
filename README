@@ -11,4 +11,4 @@ hello
 run
   will run the main method at src/main/scala/org/jonhoffman/MainApp.scala
 reload
-  if you make change to the SbtDemoProject.scala file, use that action to reload
+  if you make change to the SbtDemoProject.scala file, reload
